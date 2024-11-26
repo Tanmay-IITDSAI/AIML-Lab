@@ -9,7 +9,7 @@ DB_PASSWORD = 'Ved@mysql123'
 DB_NAME = 'traffic_violation_db'
 
 # Initialize the InferenceClient with your API key
-client = InferenceClient(api_key="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")
+client = InferenceClient(api_key="")
 
 # Streamlit app
 st.title("SQL Query Generator and Executor")
